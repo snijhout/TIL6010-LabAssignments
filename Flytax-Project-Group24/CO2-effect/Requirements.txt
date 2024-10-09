@@ -1,0 +1,13 @@
+numpy
+ipykernel
+jupyter
+pandas
+matplotlib
+seaborn
+plotly_express
+scikit-learn
+geopandas
+folium
+pyppeteer
+jupyter_contrib_nbextensions
+pandoc
