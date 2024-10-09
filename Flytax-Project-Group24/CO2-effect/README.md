@@ -5,3 +5,5 @@ Also, this file gives the flight location. Herewith, together with other librari
 Now, we know how many passengers travel what amount of kilometers
 Then, in an external file, the emission factor for different kind of flights is given (3 categories), and these get multiplied by the amount of kilometres per passenger.
 Eventually, we can make a file with emissions per flight route based on the total quantity of passengers
+
+Running the file might take a while +- 10 min, because data needs to be retrieved from servers
