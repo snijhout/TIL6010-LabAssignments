@@ -1,0 +1,506 @@
+Flight Route,2024 Q2 Total Passengers,Latitude,Longitude,Land Code,Distance to Netherlands (km)
+Airp_Pr (Labels),,,,,
+Abu Dhabi International Airport,53133.0,24.43189915,54.641976680103,AE,5150.168866325857
+Dubai International Airport,224942.0,25.2521287,55.365715576690505,AE,5128.537550073089
+Bonaire/Flamingo Airport,44039.0,12.1310269,-68.2649182072493,NL,7836.943565182141
+Curacao/Aeropuerto Hato Airport,167798.0,12.18905265,-68.96216218491656,NL,7879.480192388335
+St. Maarten/Princess Juliana Airport,,18.04087385,-63.11185168371077,NL,6980.201826977717
+Ezeiza Ministro Pistarini (Ba) Airport,31442.0,,,,
+Innsbruck Airport,,47.2597258,11.34187056809152,AT,693.0647297231467
+Wien-Schwechat Airport,220958.0,48.10499675,16.5848987032657,AT,917.2806098337218
+Sydney/Sydney (Kingsford Smith) Intl Airport,,-33.9498935,151.18196819346016,AU,16621.971838671558
+Oranjestad/Beatrix Airport,,12.50213495,-70.01412635032392,NL,7924.323594985662
+Brussels Airport,46675.0,50.89833605,4.483258681429076,BE,153.36868048222175
+Burgas Airport,,42.57022095,27.516987282032524,BG,1970.1776851774405
+Sofia Airport,,42.6955647,23.41420825648208,BG,1711.333434417155
+Bahrain International Airport,,26.26967345,50.63283725539348,BH,4734.252925945333
+"Fortaleza/ Pinto Martins, Ce Airport",,,,,
+"Rio De Janeiro/Galeao-Antonio Carlos Jobim, Rj Airport",44591.0,,,,
+"Sao Paulo/Guarulhos, Governador Andre Franco Montoro, Sp Airport",60995.0,-23.4230163,-46.4848869,BR,9769.850259829613
+Minsk-2 Airport,,53.88991425,28.035024334224303,BY,1525.210518067351
+"Edmonton Intl, Ab Airport",,53.3069479,-113.58439316601246,CA,7015.986907423904
+"Montreal Intl (Mirabel), Qc Airport",,,,,
+"Montreal/Pierre Elliot Trudeau Intl, Qc Airport",86649.0,,,,5560.0
+"Vancouver Intl, Bc Airport",56340.0,,,,
+"Calgary Intl, Ab Airport",53554.0,51.1222604,-114.01354103011823,CA,7228.567519221736
+"Toronto/Lester B. Pearson Intl, On Airport",144907.0,,,,6000.0
+Bale-Mulhouse Airport,109620.0,47.60323695,7.52434812773247,FR,529.108508749696
+Geneva Airport,159380.0,46.23781635,6.108121245519259,CH,660.2735783650409
+Zurich Airport,212104.0,47.463388050000006,8.553366081422642,CH,569.3746551055193
+Santiago/Ap Arturo Merino Benitez Airport,,,,,
+Beijing/Capital Airport,40544.0,40.0469407,116.5856596,CN,7830.19530022838
+Beijing/Daxing International Airport,39568.0,39.49734235,116.41231485294932,CN,7869.636042675545
+Guangzhou/Baiyun Airport,40167.0,23.3880315,113.2979097,CN,9126.879145125287
+Xiamen/Gaoqi Airport,22758.0,24.543206,118.1488843,CN,9309.124236016763
+Hangzhou/Xiaoshan Airport,,30.2368729,120.42912444938366,CN,8917.299643364295
+Shanghai/Pudong Airport,78615.0,31.1427359,121.80411312160436,CN,8908.164971819644
+Shanghai/Hongqiao Airport,,31.19767765,121.33448312534463,CN,8878.061015581194
+Chengdu/Shuangliu Airport,,30.55477785,103.94790750572534,CN,7930.633216218512
+Bogota Intl/Cundinamarca Airport,,,,,
+Alajuela/Juan Santamaria Intl. Airport,,9.99341155,-84.21152052685673,CR,9111.048701545327
+Habana/Jose Marti Intl. Airport,,22.98738485,-82.4142531122872,CU,7877.166861984052
+Amilcar Cabral/Sal Island Airport,,,,,
+Larnaka/Intl Airport,,34.87035305,33.61853258381693,CY,2949.812230027584
+Praha/Ruzyne Airport,175199.0,50.1163117,14.2829383,CZ,662.1251715541589
+Berlin-Brandenburg Airport,220464.0,52.3664935,13.488038876885105,DE,553.2689596340383
+Frankfurt/Main Airport,167594.0,50.02441255,8.555200257325986,DE,324.724309833156
+Muenster/Osnabrueck Airport,,52.13421785,7.682921428334394,DE,157.12635603999732
+Hamburg Airport,87343.0,53.63636215,9.994550134684175,DE,350.9777194003844
+Koeln/Bonn Airport,,50.86778175,7.138960985502128,DE,187.93631677398147
+Duesseldorf Airport,60320.0,51.28723045,6.762062530647745,DE,135.50924174173403
+Muenchen Airport,209480.0,48.3550655,11.7863798,DE,621.6507095152498
+Nuernberg Airport,53036.0,49.49826845,11.078106331160273,DE,497.92134107325313
+Stuttgart Airport,69716.0,48.68842195,9.205392504886913,DE,471.4419823401642
+Berlin-Tegel Airport,,,,,
+Hannover Airport,46754.0,52.46144075,9.687236575826583,DE,295.157795500891
+Bremen Airport,45332.0,53.0453419,8.789641688895548,DE,250.80230932693678
+Paderborn/Lippstadt Airport,,51.6145993,8.619063961655392,DE,230.47472831033147
+Hannover Uir Airport,,,,,300.0
+Billund Airport,111953.0,55.740737,9.160391884322324,DK,469.46120933713536
+Kobenhavn/Kastrup Airport,312409.0,,,,
+Aalborg Airport,48740.0,57.0864352,9.86798193876288,DK,620.1408669144732
+Punta Cana Intl. Airport,,18.5697918,-68.36662616922789,DO,7294.544457632158
+Guayaquil Airport,,,,,
+Quito/Mariscal Sucre Intl Airport,,-0.12742195,-78.35663771961843,EC,9591.807636347676
+Quito Airport,,-0.1639488,-78.34444455683592,EC,9594.168670403247
+Lennart Meri Tallinn Airport,,59.414383,24.83685111423404,EE,1455.0827485519371
+Cairo/Intl Airport,,30.1140504,31.424546074834208,EG,3246.514862520395
+Hurghada / Intl Airport,24693.0,27.17999505,33.788401300000004,EG,3645.124993353673
+Marsa Alam / Intl Airport,,25.5567175,34.586232910619,EG,3839.666927346316
+Sharm El Sheikh / Intl Airport,,27.97949105,34.39463052661297,EG,3603.9009148611153
+"Athinai (App,Met) Airport",,,,,
+Athinai/Eleftherios Venizelos Airport,160781.0,,,,
+Iraklion/Nikos Kazantzakis Airport,89621.0,35.337058,25.18097200362064,GR,2439.846666334546
+Kos/Ippokratis Airport,,,,,
+Kerkira/Ioannis Kapodistrias Airport,,39.60190105,19.91403633914905,GR,1787.1435280577414
+Preveza/Aktion Airport,,,,,
+Rodos/Diagoras Airport,,36.4050007,28.08740695,GR,2499.132576137416
+Thessaloniki/Makedonia Airport,34171.0,40.51980185,22.974086812428308,GR,1863.2220982234185
+Zakinthos/Dionisios Solomos Airport,74303.0,,,,
+Fuerteventura Airport,,28.4471242,-13.866147581598083,ES,3078.6163070647926
+Gran Canaria Airport,76524.0,27.930162,-15.388012952705228,ES,3196.4771292487226
+Lanzarote Airport,,28.94568045,-13.60758816051166,ES,3017.8761381747904
+Tenerife Sur/Reina Sofia Airport,59506.0,28.04614105,-16.57200777057564,ES,3239.0633720801347
+Alicante Airport,160544.0,38.284417700000006,-0.5657529081106044,ES,1609.623632509393
+Bilbao Airport,81151.0,43.30173845,-2.919143045291415,ES,1163.4154928097676
+Barcelona/El Prat Airport,406225.0,41.29694395,2.079047362981321,ES,1233.0292934875526
+Girona Airport,,41.90449465,2.762426044162633,ES,1156.8167995889642
+Ibiza Airport,100638.0,38.87294785,1.370372414235323,ES,1508.707593704613
+Adolfo Suarez Madrid-Barajas Airport,320175.0,40.4952269,-3.573373302702902,ES,1465.8565688041037
+Malaga/Costa Del Sol Airport,248955.0,36.67854455,-4.499675681372699,ES,1887.479973647124
+Palma De Mallorca Airport,138347.0,39.55322455,2.729030991511172,ES,1415.6708572084124
+Palma/Son San Juan (Mil) Airport,,,,,
+Valencia Airport,131243.0,39.4878647,-0.4812091860983319,ES,1478.8370958945957
+Sevilla Airport,43871.0,37.41770265,-5.894928748748175,ES,1860.3850503445349
+Helsinki-Malmi Airport,,60.2521109,25.0437312,FI,1507.2102154580025
+Helsinki/Vantaa Airport,152365.0,60.32181555,24.94736111181276,FI,1506.177959827036
+Bordeaux-Merignac Airport,54258.0,44.82928695,-0.7125760651627708,FR,930.4052102496862
+Toulouse/Blagnac Airport,69713.0,43.629978,1.360809880743464,FR,994.2773936234123
+Lyon Saint-Exupery Airport,66192.0,45.72442685,5.086515135250837,FR,715.5949649158164
+Marseille-Provence Airport,62319.0,43.437516,5.213025851156344,FR,969.47364635621
+Nice-Cote D'Azur Airport,145768.0,43.6598152,7.213746036113885,FR,954.4146702642058
+Montpellier Mediterranee Airport,,43.5803862,3.963165740636208,FR,959.3993826581376
+Paris-Charles De Gaulle Airport,281670.0,49.0068908,2.571081969101916,FR,403.06848794486393
+Paris-Orly Airport,,48.73005955,2.367831255814345,FR,437.24124237692706
+Nantes Atlantique Airport,51235.0,47.1518409,-1.6084620308979245,FR,750.9890009215892
+Strasbourg-Entzheim Airport,,48.538870900000006,7.625446281168612,FR,432.6862856513283
+Accra/Kotoka International Airport,,5.60428935,-0.167967625794569,GH,5186.296172308588
+Hong Kong/International Airport,57096.0,22.3125986,113.91729986640615,CN,9260.58485771635
+Split/Kastela Airport,73187.0,,,,
+Zagreb/Franjo Tudjman Airport,58638.0,,,,1100.0
+Budapest/Liszt Ferenc International Airport,58745.0,47.4336969,19.26217796316692,HU,1126.0631959747068
+Bali Intl/Ngurah Rai Airport,122445.0,-8.7458582,115.16733897840363,ID,12117.929933177586
+Jakarta Intl/Soekarno-Hatta Airport,36537.0,-6.1797874,106.7923764,ID,11326.459970451328
+Jakarta City Airport,,,,,
+Cork Airport,,51.84173815,-8.493798524458427,IE,952.5684579698201
+Dublin Airport,61883.0,53.42829155,-6.24727406240776,IE,796.6160937422886
+Tel-Aviv/Ben Gurion Airport,330616.0,31.7825377,35.2196126,IL,3309.153121424422
+Mumbai Airport,89944.0,19.09015275,72.86371349380883,IN,6821.741630976377
+Delhi (Igi) Airport,41508.0,28.5564626,77.0866995,IN,6333.93973334564
+"Bangalore International Airport, Devenahalli, Bangalore Airport",75782.0,,,,7800.0
+Hyderabad Airport,,25.31943335,68.36835559267595,PK,5998.10428087041
+Tehran/Imam Khomaini Intl Airport,,,,,4400.0
+Tehran/Mehrabad Intl Airport,,35.6906171,51.30228194240669,IR,4028.7579077291584
+Keflavik Airport,,63.99504265,-22.62386422358098,IS,2084.982421297834
+Bari/Palese Airport,98704.0,,,,
+Catania/Fontanarossa Airport,,37.467242600000006,15.067568274467549,IT,1799.274071801394
+Olbia/Costa Smeralda Airport,,40.9025051,9.514826925342067,IT,1289.8624869111195
+Milano/Malpensa Airport,,45.6296273,8.723547468967393,IT,765.6873222623653
+Bergamo/Orio Al Serio Airport,161793.0,45.67092965,9.69875557135455,IT,787.0353180581571
+Torino/Caselle Airport,,45.20096875,7.648975075273562,IT,791.0492550584836
+Genova/Sestri Airport,,,,,
+Milano/Linate Airport,,45.4611832,9.2786741,IT,797.1837644377125
+Bologna/Borgo Panigale Airport,155597.0,44.5344306,11.288457445265175,IT,952.9576289494848
+Verona/Villafranca Airport,66401.0,45.39717245,10.885895928972548,IT,852.7838253057309
+Venezia/Tessera Airport,,45.5047908,12.3395025,IT,897.7661667735919
+Roma/Fiumicino Airport,127107.0,41.81539105,12.22648477049777,IT,1260.458753242128
+Napoli/Capodichino Airport,200712.0,40.8839923,14.284545745409144,IT,1424.4604903184681
+Pisa/S. Giusto Airport,80705.0,43.7002832,10.3995212,IT,1011.4250703101023
+Firenze/Peretola Airport,,,,,
+Amman/Queen Alia Airport,103099.0,31.9381031,35.854212,JO,3332.9021919405436
+Narita Intl Airport,,35.7732767,140.3882564,JP,9330.655553617991
+Kansai Intl Airport,48315.0,34.4333441,135.2389759,JP,9248.954030692337
+Sapporo/New Chitose Airport,,,,,
+Fukuoka Airport,,33.586802,130.44739386660302,JP,9113.26718020081
+Nairobi/Jomo Kenyatta Intl. Twr/App/Nof/Met/Civil Airlines Airport,,,,,
+"Nairobi Acc,Fic,Rcc,Com Airport",80790.0,,,,6500.0
+Unknown Airport - South Korea,,,,,
+Incheon Intl Airport,,37.4634593,126.44170925544928,KR,8556.70628047764
+Gimpo Airport,79738.0,37.55900775,126.7942402657747,KR,8564.571357036697
+Kuwait/Intl Airport,,29.2202681,47.95515559449122,KW,4314.299815117129
+Almaty Airport,,43.34320705,77.01258085779281,KZ,5235.152439329559
+Beirut/Beirut Intl Airport,,33.8184914,35.49091212064463,LB,3150.5377553923413
+Katunayake/Bandaranaike International Airport Colombo Airport,,7.1789591,79.88381866572543,LK,8324.156948237678
+Vilnius Intl Airport,,54.63483615,25.290314330439507,LT,1347.5287944435793
+Luxembourg Airport,,49.6347855,6.2162516,LU,286.4733786700966
+Riga Airport,,56.921994,23.9831931,LV,1309.9170781703615
+Casablanca/Mohammed V Airport,45743.0,33.36928355,-7.58700855172756,MA,2333.446632363635
+Nador/El Aroui Airport,51895.0,,,,
+Marrakech/Menara Airport,35252.0,31.60587285,-8.032439841503606,MA,2530.3376614551535
+Tanger/Ibn Batouta Airport,,,,,
+Luqa Airport,42502.0,35.8494118,14.495967,MT,1949.926891640995
+Mexico Airport,,20.68945595,-105.24087138340344,MX,9533.258859999329
+Cancun Airport,,21.0406984,-86.88175904256647,MX,8338.834655147359
+Sepang/Kl International Airport,89173.0,,,,
+Lagos/Murtala Muhammed Airport,,6.5848212,3.3329165,NG,5056.087954952078
+Maastricht/Aachen Airport,,50.91249905,5.77132050283004,NL,140.8965479213181
+Eindhoven Airport,34404.0,51.449830000000006,5.373710920240573,NL,78.58815402215987
+Alesund/Vigra Airport,,62.5602153,6.113434215998237,NO,1159.4583177437976
+Bergen/Flesland Airport,,60.29653315,5.219817732441406,NO,906.457494974041
+Luftfartstilsynet Civil Aviation Authority Airport,,,,,1100.0
+Kristiansand/Kjevik Airport,94761.0,58.20414355,8.08327172379055,NO,694.7155142149553
+Statfjord B Airport,,,,,
+Oslo/Gardermoen Airport,,60.19786535,11.09967535417638,NO,962.2547703399798
+Sandefjord/Torp Airport,,59.184689,10.25856025179457,NO,839.8620576980356
+Trondheim/St. Olavs Hospital Airport,185039.0,,,,
+Trondheim/Vaernes Airport,,63.4547661,10.925133336071024,NO,1299.528948061231
+Stavanger/Sola Airport,,58.88097675,5.622630004357943,NO,748.8436636375467
+Muscat/Muscat Intl Airport,46970.0,23.59947275,58.27380058745694,OM,5459.5196370616
+Panama/Tocumen Airport,71577.0,9.0678514,-79.3791823202381,PA,8861.308776900116
+Lima-Callao/Intl Jorge Chavez Airport,,-12.01930935,-77.11867830010124,PE,10549.066892839655
+Lima-Callao/Intl. Jorge Chavez Airport,56756.0,-12.01930935,-77.11867830010124,PE,10549.066892839655
+Manila/Ninoy Aquino Intl Airport,,14.5123016,121.02188606807516,PH,10397.313640297425
+"Malabang, Lanao Del Sur Airport",53643.0,7.6172392,124.05814682949386,PH,11216.495738326297
+Gdansk Im Lecha Walesy Airport,,54.3762064,18.474455102751115,PL,905.9620280946713
+Krakow/Balice Airport,,50.0782553,19.78625376760332,PL,1032.4784621616461
+Warszawa/Chopina Airport,56375.0,52.16306505,20.970814903702912,PL,1064.3467594534015
+Faro Airport,73587.0,37.0174596,-7.973933672397203,PT,1981.8131013771595
+Madeira Airport,155966.0,32.6918345,-16.7747901,PT,2805.271504534158
+Porto Airport,80749.0,41.2489618,-8.680279638325514,PT,1615.3075719562123
+Lisboa Airport,,38.7689425,-9.128721,PT,1864.1499011607846
+Doha International Airport,107852.0,25.25754195,51.57210363956301,QA,4880.71322416093
+Hamad International Airport,281199.0,25.2748602,51.61245118344142,QA,4881.843079731917
+Bucuresti/Henri Coanda Airport,,,,,
+Beograd/Nikola Tesla Airport,76135.0,44.81825555,20.30235943163158,RS,1367.2530490116637
+Sankt-Peterburg/Pulkovo Airport,124576.0,59.8016986,30.267601113109503,RU,1756.0902233135193
+Moscow/Sheremetyevo Airport,58914.0,55.96004625,37.41296395,RU,2119.2482214469123
+Kigali International Airport,,-1.9635678,30.1349242,RW,6433.15010023322
+Dammam/King Fahd International Airport,,26.46739665,49.79887844079486,SA,4663.827495428151
+Jeddah/King Abdulaziz International Airport,,21.6605044,39.1738182,SA,4453.825015494606
+Riyadh/King Khaled International Airport,,,,,
+Goteborg/Landvetter Airport,,57.66241475,12.287763001236742,SE,755.2218978587341
+Malmo Airport,,55.5361868,13.36971874775739,SE,645.5261162168595
+Stockholm/Arlanda Airport,85604.0,59.6467921,17.937044334194475,SE,1141.6810437608383
+Linkoping/Saab Airport,,,,,
+Singapore/Changi Airport,241410.0,1.352975,103.99605546603934,SG,10477.397499124872
+Ljubljana/Brnik Airport,,46.22247455,14.463847697380164,SI,933.0987996524459
+Johan Adolf Pengel Airport,70762.0,5.45209655,-55.18802501876111,SR,7555.0418749001155
+Damascus/Intl Airport,,33.4101971,36.52405876170245,SY,3247.3437850891532
+Bangkok/Don Mueang Intl Airport,65817.0,13.9122207,100.60353142390704,TH,9149.822569207985
+Bangkok/Suvarnabhumi Intl Airport,,13.68187665,100.74858027718852,TH,9179.553663543407
+Monastir/Habib Bourguiba Airport,,35.75891615,10.751787441663753,TN,1870.790498610017
+Enfidha Zine El Abidine Ben Ali Airport,80709.0,,,,1900.0
+Ankara/Esenboga Airport,,40.1230634,32.99872088625601,TR,2494.6396386024553
+Antalya (Mil-Civ) Airport,,,,,
+Istanbul/Ataturk Airport,,40.9782416,28.826317699492456,TR,2169.0122185474584
+Izmir/Adnan Menderes Airport,100173.0,38.28953495,27.158839158134597,TR,2285.3677268701244
+Mugla/Dalaman Airport,,36.71183085,28.785783840398203,TR,2511.9681083040664
+Mugla/Milas-Bodrum Airport,35368.0,37.24952535,27.67212809118392,TR,2402.9100142816037
+Gazipasa-Alanya Airport,,36.29880585,32.29718214713545,TR,2751.680705062101
+Istanbul/Sabiha Gokcen Airport,,40.89433405,29.311805841114285,TR,2205.3619768988046
+Istanbul/Istanbul Havalimani Airport,,41.27486835,28.732274885060946,TR,2140.907919554313
+Taibei City/Taibei Intl Ap Airport,135298.0,,,,9500.0
+Dar Es Salaam/Julius Nyerere Airport,231145.0,-6.8741937,39.20752396159325,TZ,7287.211674978237
+"Kilimanjaro App, Twr, Ais, Met, Civil Airlines Airport",45229.0,,,,7000.0
+Zanzibar - Kisauni Airport,,,,,
+Kyiv/Boryspil Airport,,50.3401779,30.891557297991227,UA,1782.8023021237693
+Entebbe (Intl) Airport,,0.044802,32.4429895,UG,6304.854821833452
+Belfast/Aldergrove Airport,,54.65265635,-6.228744060989918,GB,819.8651643712583
+Birmingham Airport,,52.45418475,-1.7438663377482455,GB,487.3814381671933
+Coventry Airport,,52.37005905,-1.4812022553400643,GB,469.405807724006
+Manchester Airport,153173.0,53.35034205,-2.280369252664295,GB,534.2407220818548
+Cardiff Airport,,51.397871550000005,-3.3445890119919994,GB,608.1921936657549
+Bristol Airport,260619.0,51.38296995,-2.7186237715618864,GB,565.8511994687443
+Liverpool Airport,,53.33605215,-2.8494283971041767,GB,571.1963609234402
+London Luton Airport,131088.0,51.87810155,-0.3664254744086523,GB,396.1422169051002
+Southampton Airport,,50.95191505,-1.3561000015780094,GB,486.3483355156627
+London Gatwick Airport,149061.0,51.1541082,-0.1823116499127204,GB,401.15698427945927
+London/City Airport,,51.5042655,0.0549024013303768,GB,374.6306702174042
+London Heathrow Airport,191909.0,51.46773895,-0.4587800741571181,GB,410.3015316616649
+Southend Airport,148504.0,51.569686,0.7052992,GB,329.0366377496948
+Humberside Airport,373105.0,53.5713963,-0.3534607323460706,GB,417.3591499991336
+Leeds Bradford Airport,,53.86665035,-1.656781884498208,GB,509.4317361139341
+Newcastle Airport,,-32.80609885,151.84238794840638,AU,16568.756722751852
+Durham Tees Valley Airport,42397.0,54.50941065,-1.4247903167173146,GB,523.6756131215743
+East Midlands Airport,86511.0,52.82808655,-1.332669481847069,GB,462.376382698414
+Aberdeen/Dyce Airport,,57.2022265,-2.201735686842105,GB,744.2298942694424
+Inverness Airport,,57.5431461,-4.0505794569171325,GB,851.2973878978403
+Glasgow Airport,77144.0,55.87055599999999,-4.435703726877146,GB,764.199452605681
+Edinburgh Airport,,55.9501289,-3.359507985528976,GB,710.8480652469551
+Norwich Airport,117227.0,52.67646,1.281815693546267,GB,285.2627916946746
+London Stansted Airport,183301.0,51.88696515,0.2441929015733029,GB,354.2755068215834
+"Hartsfield - Jackson Atlanta International, Ga. Airport",,,,,
+"Boston/General Edward Lawrence Logan International, Ma. Airport",58392.0,,,,5600.0
+"Covington-Cincinnati/Northern Kentucky International, Ky. Airport",200433.0,,,,
+"Dallas-Fort Worth International, Tx. Airport",122094.0,,,,
+"Detroit Metropolitan Wayne County, Mi. Airport",,,,,
+"Newark Liberty International, Nj. Airport",,,,,
+"Washington Dulles International, Dc. Airport",136419.0,,,,6200.0
+"George Bush Intercontinental/Houston, Tx. Airport",38881.0,,,,
+"New York/John F. Kennedy International, Ny. Airport",77159.0,,,,
+"Las Vegas/Mccarran International, Nv. Airport",79735.0,,,,
+"Los Angeles International, Ca. Airport",244268.0,33.9469648,-118.38657597737188,US,9017.990110428487
+"Orlando International, Fl. Airport",,,,,
+"Memphis International, Tenn. Airport",104052.0,,,,
+"Miami International, Fl. Airport",,,,,
+"Minneapolis-St. Paul International (Wold Chamberlain), Mn. Airport",,,,,
+"Chicago - O'Hare International, Il. Airport",,41.9777293,-87.880728,US,6674.346292629253
+"Orlando, Fla. Airport",160843.0,28.461082,-81.31379770723532,US,7348.924688787964
+"Portland International, Or. Airport",87933.0,45.58744605,-122.59301280224814,US,8090.949002012514
+"Philadelphia International, Pa. Airport",,,,,
+"Seattle/Seattle-Tacoma International, Wa. Airport",43546.0,,,,
+"San Francisco/Intl,Ca. Airport",,37.622452,-122.38398938548364,US,8848.620392064664
+"Salt Lake City International, Ut. Airport",89798.0,,,,
+"Margarita, Nueva Esparta Airport",91869.0,,,,
+"Maiquetia, Intl, Simon Bolivar, Vargas Airport",69750.0,,,,7600.0
+Cape Town (Cape Town International Airport) Airport,,-33.97184585,18.60211252014832,ZA,9627.844871497873
+O.R Tambo International Airport,,-26.1321694,28.2310998,ZA,8954.013741790446
+Olifants River Bridge Airport,56008.0,-24.2662102,29.7845335,ZA,8793.187040480225
+Maastricht/Aachen Airport - Berlin-Brandenburg Airport,,,,,
+Maastricht/Aachen Airport - Muenchen Airport,56127.0,,,,
+Maastricht/Aachen Airport - Hurghada / Intl Airport,,,,,
+Maastricht/Aachen Airport - Iraklion/Nikos Kazantzakis Airport,,,,,
+Maastricht/Aachen Airport - Kos/Ippokratis Airport,,,,,2100.0
+Maastricht/Aachen Airport - Rodos/Diagoras Airport,,,,,
+Maastricht/Aachen Airport - Zakinthos/Dionisios Solomos Airport,,,,,2300.0
+Maastricht/Aachen Airport - Gran Canaria Airport,,,,,
+Maastricht/Aachen Airport - Tenerife Sur/Reina Sofia Airport,,,,,
+Maastricht/Aachen Airport - Alicante Airport,,,,,
+Maastricht/Aachen Airport - Barcelona/El Prat Airport,,,,,
+Maastricht/Aachen Airport - Girona Airport,,,,,
+Maastricht/Aachen Airport - Malaga/Costa Del Sol Airport,,,,,
+Maastricht/Aachen Airport - Palma De Mallorca Airport,,,,,
+Maastricht/Aachen Airport - Reus Airport,,,,,
+Maastricht/Aachen Airport - Valencia Airport,,,,,
+Maastricht/Aachen Airport - Budapest/Liszt Ferenc International Airport,,,,,
+Maastricht/Aachen Airport - Dublin Airport,,,,,
+Maastricht/Aachen Airport - Bari/Palese Airport,,,,,
+Maastricht/Aachen Airport - Trapani/Birgi Airport,,,,,
+Maastricht/Aachen Airport - Bergamo/Orio Al Serio Airport,,,,,
+Maastricht/Aachen Airport - Treviso/S.Angelo Airport,,,,,
+Maastricht/Aachen Airport - Pisa/S. Giusto Airport,,,,,
+Maastricht/Aachen Airport - Luqa Airport,,,,,
+Maastricht/Aachen Airport - Amsterdam/Schiphol Airport,,,,,
+Maastricht/Aachen Airport - Rotterdam Airport,,,,,
+Maastricht/Aachen Airport - Katowice/Pyrzowice Airport,,,,,
+Maastricht/Aachen Airport - Faro Airport,,,,,
+Maastricht/Aachen Airport - Porto Airport,,,,,
+Maastricht/Aachen Airport - Bucuresti/Baneasa-Aurel Vlaicu Airport,,,,,
+Maastricht/Aachen Airport - Antalya (Mil-Civ) Airport,,,,,
+Maastricht/Aachen Airport - Istanbul/Ataturk Airport,,,,,
+Maastricht/Aachen Airport - Mugla/Dalaman Airport,,,,,
+Maastricht/Aachen Airport - Mugla/Milas-Bodrum Airport,,,,,
+Maastricht/Aachen Airport - London Stansted Airport,,,,,
+Eindhoven Airport - Tirana Airport,,,,,
+Eindhoven Airport - Innsbruck Airport,,,,,
+Eindhoven Airport - Wien-Schwechat Airport,38117.0,,,,
+Eindhoven Airport - Tuzla Airport,1296.0,,,,
+Eindhoven Airport - Sofia Airport,9094.0,,,,
+Eindhoven Airport - Varna Airport,,,,,
+Eindhoven Airport - Zurich Airport,57038.0,,,,
+Eindhoven Airport - Praha/Ruzyne Airport,13725.0,,,,
+Eindhoven Airport - Brno/Turany Airport,,,,,
+Eindhoven Airport - Hamburg Airport,21365.0,,,,
+Eindhoven Airport - Muenchen Airport,,,,,
+Eindhoven Airport - Berlin-Tegel Airport,,,,,
+Eindhoven Airport - Kobenhavn/Kastrup Airport,,,,,
+Eindhoven Airport - Athinai/Eleftherios Venizelos Airport,,,,,2200.0
+Eindhoven Airport - Iraklion/Nikos Kazantzakis Airport,13641.0,,,,
+Eindhoven Airport - Kos/Ippokratis Airport,31240.0,,,,2100.0
+Eindhoven Airport - Rodos/Diagoras Airport,32210.0,,,,
+Eindhoven Airport - Chania/Ioannis Daskalogiannis Airport,14060.0,,,,
+Eindhoven Airport - Thessaloniki/Makedonia Airport,17820.0,,,,
+Eindhoven Airport - Gran Canaria Airport,,,,,
+Eindhoven Airport - Lanzarote Airport,,,,,
+Eindhoven Airport - Tenerife Sur/Reina Sofia Airport,20652.0,,,,
+Eindhoven Airport - Alicante Airport,13814.0,,,,
+Eindhoven Airport - Bilbao Airport,29528.0,,,,
+Eindhoven Airport - Barcelona/El Prat Airport,90264.0,,,,
+Eindhoven Airport - Girona Airport,11197.0,,,,
+Eindhoven Airport - Ibiza Airport,44582.0,,,,
+Eindhoven Airport - Murcia/San Javier Airport,18364.0,,,,
+Eindhoven Airport - Adolfo Suarez Madrid-Barajas Airport,57740.0,,,,
+Eindhoven Airport - Malaga/Costa Del Sol Airport,,,,,
+Eindhoven Airport - Palma De Mallorca Airport,,,,,
+Eindhoven Airport - Reus Airport,106823.0,,,,
+Eindhoven Airport - Valencia Airport,61284.0,,,,
+Eindhoven Airport - Sevilla Airport,23896.0,,,,
+Eindhoven Airport - Carcassonne/Salvaza Airport,79614.0,,,,
+Eindhoven Airport - Marseille-Provence Airport,26410.0,,,,
+Eindhoven Airport - Nice-Cote D'Azur Airport,,,,,
+Eindhoven Airport - Paris-Charles De Gaulle Airport,9130.0,,,,
+Eindhoven Airport - Zagreb/Franjo Tudjman Airport,25470.0,,,,1100.0
+Eindhoven Airport - Budapest/Liszt Ferenc International Airport,,,,,
+Eindhoven Airport - Debrecen Airport,8933.0,,,,
+Eindhoven Airport - Dublin Airport,63682.0,,,,
+Eindhoven Airport - Tel-Aviv/Ben Gurion Airport,,,,,
+Eindhoven Airport - Pescara Airport,13113.0,,,,
+Eindhoven Airport - Brindisi/Casale Airport,,,,,
+Eindhoven Airport - Catania/Fontanarossa Airport,,,,,
+Eindhoven Airport - Trapani/Birgi Airport,14062.0,,,,
+Eindhoven Airport - Alghero/Fertilia Airport,13905.0,,,,
+Eindhoven Airport - Milano/Malpensa Airport,,,,,
+Eindhoven Airport - Bergamo/Orio Al Serio Airport,,,,,
+Eindhoven Airport - Torino/Caselle Airport,,,,,
+Eindhoven Airport - Bologna/Borgo Panigale Airport,46014.0,,,,
+Eindhoven Airport - Treviso/S.Angelo Airport,,,,,
+Eindhoven Airport - Venezia/Tessera Airport,38096.0,,,,
+Eindhoven Airport - Roma/Ciampino Airport,13360.0,,,,
+Eindhoven Airport - Roma/Fiumicino Airport,,,,,
+Eindhoven Airport - Napoli/Capodichino Airport,,,,,
+Eindhoven Airport - Pisa/S. Giusto Airport,63983.0,,,,
+Eindhoven Airport - Kaunas Intl Airport,,,,,
+Eindhoven Airport - Vilnius Intl Airport,41093.0,,,,
+Eindhoven Airport - Riga Airport,,,,,
+Eindhoven Airport - Fes/Saiss Airport,27400.0,,,,
+Eindhoven Airport - Oujda/Angads Airport,,,,,1900.0
+Eindhoven Airport - Nador/El Aroui Airport,9351.0,,,,1900.0
+Eindhoven Airport - Marrakech/Menara Airport,,,,,
+Eindhoven Airport - Skopje Airport,,,,,
+Eindhoven Airport - Luqa Airport,22397.0,,,,
+Eindhoven Airport - Amsterdam/Schiphol Airport,22648.0,,,,
+Eindhoven Airport - Moss/Rygge Airport,,,,,
+Eindhoven Airport - Gdansk Im Lecha Walesy Airport,,,,,
+Eindhoven Airport - Krakow/Balice Airport,,,,,
+Eindhoven Airport - Katowice/Pyrzowice Airport,37078.0,,,,
+Eindhoven Airport - Lublin Airport,51302.0,,,,
+Eindhoven Airport - Warszawa/Modlin Airport,31210.0,,,,
+Eindhoven Airport - Poznan/Lawica Airport,,,,,
+Eindhoven Airport - Warszawa/Chopina Airport,18704.0,,,,
+Eindhoven Airport - Wroclaw/Strachowice Airport,,,,,
+Eindhoven Airport - Faro Airport,39874.0,,,,
+Eindhoven Airport - Porto Airport,13505.0,,,,
+Eindhoven Airport - Lisboa Airport,78367.0,,,,
+Eindhoven Airport - Bucuresti/Baneasa-Aurel Vlaicu Airport,33779.0,,,,
+Eindhoven Airport - Cluj Napoca/Avram Iancu Airport,47226.0,,,,
+Eindhoven Airport - Iasi Airport,,,,,
+Eindhoven Airport - Bucuresti/Henri Coanda Airport,17570.0,,,,
+Eindhoven Airport - Timisoara/Traian Vuia Airport,8839.0,,,,
+Eindhoven Airport - Beograd/Nikola Tesla Airport,39105.0,,,,
+Eindhoven Airport - Moscow/Vnukovo Airport,,,,,
+Eindhoven Airport - Stockholm/Skavsta Airport,17931.0,,,,
+Eindhoven Airport - Stockholm/Arlanda Airport,,,,,
+Eindhoven Airport - Bratislava/M.R.Stefanik Airport,,,,,
+Eindhoven Airport - Antalya (Mil-Civ) Airport,,,,,
+Eindhoven Airport - Istanbul/Ataturk Airport,14099.0,,,,
+Eindhoven Airport - Izmir/Adnan Menderes Airport,,,,,
+Eindhoven Airport - Mugla/Dalaman Airport,,,,,
+Eindhoven Airport - Mugla/Milas-Bodrum Airport,,,,,
+Eindhoven Airport - Istanbul/Sabiha Gokcen Airport,,,,,
+Eindhoven Airport - Manchester Airport,,,,,
+Eindhoven Airport - London Gatwick Airport,7679.0,,,,
+Eindhoven Airport - London/City Airport,12795.0,,,,
+Eindhoven Airport - London Heathrow Airport,,,,,
+Eindhoven Airport - Edinburgh Airport,,,,,
+Eindhoven Airport - London Stansted Airport,,,,,
+Groningen/Eelde Airport - Muenchen Airport,,,,,
+Groningen/Eelde Airport - Kobenhavn/Kastrup Airport,91928.0,,,,
+Groningen/Eelde Airport - Iraklion/Nikos Kazantzakis Airport,,,,,
+Groningen/Eelde Airport - Kos/Ippokratis Airport,,,,,2100.0
+Groningen/Eelde Airport - Gran Canaria Airport,,,,,
+Groningen/Eelde Airport - Lanzarote Airport,,,,,
+Groningen/Eelde Airport - Tenerife Sur/Reina Sofia Airport,,,,,
+Groningen/Eelde Airport - Barcelona/El Prat Airport,,,,,
+Groningen/Eelde Airport - Girona Airport,,,,,
+Groningen/Eelde Airport - Palma De Mallorca Airport,,,,,
+Groningen/Eelde Airport - Palma/Son San Juan (Mil) Airport,,,,,
+Groningen/Eelde Airport - Marseille-Provence Airport,,,,,
+Groningen/Eelde Airport - Bergamo/Orio Al Serio Airport,,,,,
+Groningen/Eelde Airport - Maastricht/Aachen Airport,,,,,
+Groningen/Eelde Airport - Rotterdam Airport,,,,,
+Groningen/Eelde Airport - Gdansk Im Lecha Walesy Airport,,,,,
+Groningen/Eelde Airport - Faro Airport,,,,,
+Groningen/Eelde Airport - Antalya (Mil-Civ) Airport,,,,,
+Groningen/Eelde Airport - Mugla/Dalaman Airport,,,,,
+Groningen/Eelde Airport - Mugla/Milas-Bodrum Airport,,,,,
+Groningen/Eelde Airport - Southend Airport,,,,,
+Groningen/Eelde Airport - Aberdeen/Dyce Airport,,,,,
+Groningen/Eelde Airport - London Stansted Airport,,,,,
+Rotterdam Airport - Innsbruck Airport,,,,,
+Rotterdam Airport - Salzburg Airport,,,,,
+Rotterdam Airport - Wien-Schwechat Airport,1025.0,,,,
+Rotterdam Airport - Praha/Ruzyne Airport,537.0,,,,
+Rotterdam Airport - Berlin-Brandenburg Airport,,,,,
+Rotterdam Airport - Hamburg Airport,,,,,
+Rotterdam Airport - Muenchen Airport,,,,,
+Rotterdam Airport - Berlin-Tegel Airport,,,,,
+Rotterdam Airport - Kobenhavn/Kastrup Airport,,,,,
+Rotterdam Airport - Iraklion/Nikos Kazantzakis Airport,,,,,
+Rotterdam Airport - Kos/Ippokratis Airport,,,,,2100.0
+Rotterdam Airport - Rodos/Diagoras Airport,15809.0,,,,
+Rotterdam Airport - Gran Canaria Airport,,,,,
+Rotterdam Airport - Lanzarote Airport,,,,,
+Rotterdam Airport - Tenerife Sur/Reina Sofia Airport,19006.0,,,,
+Rotterdam Airport - Alicante Airport,,,,,
+Rotterdam Airport - Almeria Airport,16295.0,,,,
+Rotterdam Airport - Barcelona/El Prat Airport,51517.0,,,,
+Rotterdam Airport - Girona Airport,,,,,
+Rotterdam Airport - Ibiza Airport,27373.0,,,,
+Rotterdam Airport - Adolfo Suarez Madrid-Barajas Airport,23998.0,,,,
+Rotterdam Airport - Malaga/Costa Del Sol Airport,46974.0,,,,
+Rotterdam Airport - Palma De Mallorca Airport,,,,,
+Rotterdam Airport - Valencia Airport,61429.0,,,,
+Rotterdam Airport - Bergerac-Roumaniere Airport,18753.0,,,,800.0
+Rotterdam Airport - Nice-Cote D'Azur Airport,17311.0,,,,
+Rotterdam Airport - Montpellier Mediterranee Airport,14173.0,,,,
+Rotterdam Airport - Paris-Charles De Gaulle Airport,,,,,
+Rotterdam Airport - Paris-Orly Airport,,,,,
+Rotterdam Airport - Hyeres-Le Palyvestre Airport,,,,,
+Rotterdam Airport - Dubrovnik/Cilipi Airport,,,,,
+Rotterdam Airport - Pula Airport,,,,,
+Rotterdam Airport - Split/Kastela Airport,,,,,
+Rotterdam Airport - Budapest/Liszt Ferenc International Airport,,,,,
+Rotterdam Airport - Dublin Airport,15195.0,,,,
+Rotterdam Airport - Brindisi/Casale Airport,,,,,
+Rotterdam Airport - Milano/Malpensa Airport,,,,,
+Rotterdam Airport - Bergamo/Orio Al Serio Airport,,,,,
+Rotterdam Airport - Venezia/Tessera Airport,,,,,
+Rotterdam Airport - Roma/Fiumicino Airport,,,,,
+Rotterdam Airport - Pisa/S. Giusto Airport,,,,,
+Rotterdam Airport - Fes/Saiss Airport,14711.0,,,,
+Rotterdam Airport - Nador/El Aroui Airport,,,,,1900.0
+Rotterdam Airport - Marrakech/Menara Airport,,,,,
+Rotterdam Airport - Al Hoceima/Cherif El Idrissi Airport,8016.0,,,,
+Rotterdam Airport - Tanger/Ibn Batouta Airport,,,,,
+Rotterdam Airport - Luqa Airport,8172.0,,,,
+Rotterdam Airport - Oslo/Gardermoen Airport,8769.0,,,,
+Rotterdam Airport - Faro Airport,,,,,
+Rotterdam Airport - Lisboa Airport,,,,,
+Rotterdam Airport - Stockholm/Skavsta Airport,46266.0,,,,
+Rotterdam Airport - Antalya (Mil-Civ) Airport,23783.0,,,,
+Rotterdam Airport - Kayseri (Mil/Civ) Airport,,,,,
+Rotterdam Airport - Istanbul/Ataturk Airport,8915.0,,,,
+Rotterdam Airport - Mugla/Dalaman Airport,,,,,
+Rotterdam Airport - Mugla/Milas-Bodrum Airport,,,,,
+Rotterdam Airport - Istanbul/Sabiha Gokcen Airport,,,,,
+Rotterdam Airport - Manchester Airport,,,,,
+Rotterdam Airport - London Luton Airport,19536.0,,,,
+Rotterdam Airport - London Gatwick Airport,,,,,
+Rotterdam Airport - London/City Airport,,,,,
+Rotterdam Airport - London Heathrow Airport,,,,,
+Rotterdam Airport - Edinburgh Airport,33029.0,,,,
+Rotterdam Airport - London Stansted Airport,,,,,
+Nan,,46.3144754,11.0480288,IT,768.8767946927518
+Special Value,,37.566185,126.9273865,KR,8570.221610539673
+:,,60.32181555,24.94736111181276,FI,1506.177959827036
+,,,,,
