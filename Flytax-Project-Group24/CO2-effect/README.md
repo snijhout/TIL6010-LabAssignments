@@ -1,9 +1,10 @@
 # CO2-emissions folder
-Avia-par csv file contains the Passengers between each airport in the Netherlands and other airports
-Herefrom, the quantity of passengers to/from each location is retrieved
-Also, this file gives the flight location. Herewith, together with other libraries, we calculate the traveldistance (usiing geopy library and airport data)
-Now, we know how many passengers travel what amount of kilometers
-Then, in an external file, the emission factor for different kind of flights is given (3 categories), and these get multiplied by the amount of kilometres per passenger.
-Eventually, we can make a file with emissions per flight route based on the total quantity of passengers
+The main file is Travel-statistics.ipynb, and from here are code can be run/output can be generated
 
-Running the file might take a while +- 10 min, because data needs to be retrieved from servers
+for each block of code there is shortly explained what it does.
+
+The first block of code takes long (10 min) as the data needs to be retrieved from the server
+
+Libraries that need to be installed by file path - requirements.txt, so that geopy and pandas etc are included
+
+(maybe change the name of the file CO2 effect later, because it is not only about that anymore)

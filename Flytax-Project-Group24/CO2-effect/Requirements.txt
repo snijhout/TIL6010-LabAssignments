@@ -1,12 +1,14 @@
-numpy
+geopy
+pandas
 ipykernel
 jupyter
-pandas
+geopandas
 matplotlib
+
+numpy
 seaborn
 plotly_express
 scikit-learn
-geopandas
 folium
 pyppeteer
 jupyter_contrib_nbextensions
