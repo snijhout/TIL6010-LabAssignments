@@ -11,12 +11,12 @@ Wien-Schwechat Airport,48.10499675,16.5848987032657,AT
 Sydney/Sydney (Kingsford Smith) Intl Airport,-33.9498935,151.18196819346016,AU
 Oranjestad/Beatrix Airport,12.50213495,-70.01412635032392,NL
 Brussels Airport,50.89833605,4.483258681429076,BE
-Burgas Airport,42.5646746,27.5186491,BG
+Burgas Airport,42.57022095,27.516987282032524,BG
 Sofia Airport,42.6955647,23.41420825648208,BG
 Bahrain International Airport,26.26967345,50.63283725539348,BH
 "Fortaleza/ Pinto Martins, Ce Airport",,,
 "Rio De Janeiro/Galeao-Antonio Carlos Jobim, Rj Airport",,,
-"Sao Paulo/Guarulhos, Governador Andre Franco Montoro, Sp Airport",-23.4256468,-46.4845245,BR
+"Sao Paulo/Guarulhos, Governador Andre Franco Montoro, Sp Airport",-23.4230163,-46.4848869,BR
 Minsk-2 Airport,53.889914250000004,28.035024334224303,BY
 "Edmonton Intl, Ab Airport",53.3069479,-113.58439316601246,CA
 "Montreal Intl (Mirabel), Qc Airport",,,
@@ -62,7 +62,7 @@ Aalborg Airport,57.0864352,9.86798193876288,DK
 Punta Cana Intl. Airport,18.5697918,-68.36662616922789,DO
 Guayaquil Airport,,,
 Quito/Mariscal Sucre Intl Airport,-0.12742195,-78.35663771961843,EC
-Quito Airport,-0.1839309,-78.3481622,EC
+Quito Airport,-0.1639488,-78.34444455683592,EC
 Lennart Meri Tallinn Airport,59.414383,24.836851114234037,EE
 Cairo/Intl Airport,30.1140504,31.424546074834208,EG
 Hurghada / Intl Airport,27.179995050000002,33.788401300000004,EG
@@ -132,14 +132,14 @@ Genova/Sestri Airport,,,
 Milano/Linate Airport,45.4611832,9.2786741,IT
 Bologna/Borgo Panigale Airport,44.5344306,11.288457445265177,IT
 Verona/Villafranca Airport,45.39717245,10.885895928972548,IT
-Venezia/Tessera Airport,45.50453495,12.320636749176591,IT
+Venezia/Tessera Airport,45.5047908,12.3395025,IT
 Roma/Fiumicino Airport,41.81539105,12.22648477049777,IT
 Napoli/Capodichino Airport,40.8839923,14.284545745409144,IT
 Pisa/S. Giusto Airport,43.7002832,10.3995212,IT
 Firenze/Peretola Airport,,,
 Amman/Queen Alia Airport,31.9381031,35.854212,JO
-Narita Intl Airport,35.7732767,140.3882564,JP
-Kansai Intl Airport,34.4333441,135.2389759,JP
+Narita Intl Airport,35.77587145,140.3933101399336,JP
+Kansai Intl Airport,34.43420455,135.2225230169576,JP
 Sapporo/New Chitose Airport,,,
 Fukuoka Airport,33.586802,130.44739386660302,JP
 Nairobi/Jomo Kenyatta Intl. Twr/App/Nof/Met/Civil Airlines Airport,,,
@@ -158,7 +158,7 @@ Casablanca/Mohammed V Airport,33.36928355,-7.5870085517275605,MA
 Nador/El Aroui Airport,,,
 Marrakech/Menara Airport,31.60587285,-8.032439841503606,MA
 Tanger/Ibn Batouta Airport,,,
-Luqa Airport,35.8491226,14.4963707,MT
+Luqa Airport,35.8494118,14.495967,MT
 Mexico Airport,20.68945595,-105.24087138340344,MX
 Cancun Airport,21.0406984,-86.88175904256647,MX
 Sepang/Kl International Airport,,,
@@ -185,7 +185,7 @@ Gdansk Im Lecha Walesy Airport,54.3762064,18.474455102751115,PL
 Krakow/Balice Airport,50.078255299999995,19.78625376760332,PL
 Warszawa/Chopina Airport,52.16306505,20.970814903702912,PL
 Faro Airport,37.017459599999995,-7.973933672397203,PT
-Madeira Airport,32.69248,-16.7741839,PT
+Madeira Airport,32.69870795,-16.773314486554057,PT
 Porto Airport,41.248961800000004,-8.680279638325514,PT
 Lisboa Airport,38.7689425,-9.128721,PT
 Doha International Airport,25.25754195,51.57210363956301,QA
@@ -264,9 +264,9 @@ London Stansted Airport,51.88696515,0.24419290157330298,GB
 "Memphis International, Tenn. Airport",,,
 "Miami International, Fl. Airport",,,
 "Minneapolis-St. Paul International (Wold Chamberlain), Mn. Airport",,,
-"Chicago - O'Hare International, Il. Airport",41.974141,-87.8874682,US
+"Chicago - O'Hare International, Il. Airport",41.9777293,-87.880728,US
 "Orlando, Fla. Airport",28.45916405,-81.3116538107262,US
-"Portland International, Or. Airport",45.5874973,-122.5931319,US
+"Portland International, Or. Airport",45.58744605,-122.59301280224814,US
 "Philadelphia International, Pa. Airport",,,
 "Seattle/Seattle-Tacoma International, Wa. Airport",,,
 "San Francisco/Intl,Ca. Airport",37.622451999999996,-122.38398938548363,US
