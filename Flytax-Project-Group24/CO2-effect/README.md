@@ -1,7 +1,7 @@
 # CO2-emissions folder
 The main file is Travel-statistics.ipynb, and from here are code can be run/output can be generated
 
-At the beginning of each block of code a short explanation is given. I also indicated if a path needs to be changed.
+At the beginning of each block of code a short explanation is given. It is also indicated if a path needs to be changed.
 
 The first block of code takes long (10 min) as the data needs to be retrieved from the server
 
